@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Another developer blog
-tagline: by Pascal Richier
+title : Pascal's blog
+tagline: Another developer blog
 author :
   name : Pascal Richier
   email : pascoualito@gmail.com
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : pascalrichier
     livefyre :
       site_id : 123
     intensedebate :
