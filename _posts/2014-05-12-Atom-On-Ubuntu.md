@@ -36,7 +36,7 @@ sudo apt-get install atom
 
 Sur une 13.10 le menu global d'Unity ne fontionne pas pour Atom et il vous faudra créer une entrée à la mano.
 
-## Quelque commande pour prendre en main cet éditeur :
+## Quelques commandes pour prendre en main cet éditeur :
 1. **Ctrl-Shift-p** : c'est la commande la plus importante, elle vous ouvre la *Command Palette* qui liste toutes les commandes réalisables avec le raccourci clavier correspondant.
 <img src="{{ site.url }}/images/posts/atom-cmd-shift-p.png" alt="">
 2. **Ctrl-p** : permet d'ouvrir un fichier via un filtre sur son nom, quelque soit le chemin pour l'atteindre.
