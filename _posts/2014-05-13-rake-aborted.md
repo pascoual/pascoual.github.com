@@ -24,4 +24,5 @@ bundle install
 bundle exec rake db:create
 {% endhighlight %}
 
+You might want to learn about [Bundler](http://gembundler.com/).  
 Thanks to [lemoncider](http://stackoverflow.com/users/952064/lemoncider)
