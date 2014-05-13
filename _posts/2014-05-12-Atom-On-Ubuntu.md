@@ -5,7 +5,7 @@ description: "A Hackable Text Editor for the 21st Century on Ubuntu."
 modified: 2014-05-12
 tags: [Atom, editor, Ubuntu, Linux]
 image:
-  feature:
+  feature: abstract-4.jpg
   credit:
   creditlink:
 comments: true
@@ -38,7 +38,7 @@ Sur une 13.10 le menu global d'Unity ne fontionne pas pour Atom et il vous faudr
 
 ## Quelques commandes pour prendre en main cet éditeur :
 1. **Ctrl-Shift-p** : c'est la commande la plus importante, elle vous ouvre la *Command Palette* qui liste toutes les commandes réalisables avec le raccourci clavier correspondant.
-<img src="{{ site.url }}/images/posts/atom-cmd-shift-p.png" alt="">
+<img src="{{ site.url }}/images/posts/atom-cmd-shift-p.png" alt="" class="img-rounded">
 2. **Ctrl-p** : permet d'ouvrir un fichier via un filtre sur son nom, quelque soit le chemin pour l'atteindre.
 3. **Crtl-b** : la même chose mais uniquement concernant les fichiers déjà ouverts.
 4. **Crtl-Shift-b** : vous liste les fichiers modifiés ou non suivis par rapport à votre dernier commit Git.

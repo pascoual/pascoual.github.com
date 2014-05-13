@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "rake aborted!"
+title: "rake aborted! [US]"
 modified: 2014-05-13 01:54:35 +0200
 tags: [linux, Ubuntu, Ruby, rake, bundle]
 image:
-  feature:
+  feature: abstract-4.jpg
   credit:
   creditlink:
 comments: true

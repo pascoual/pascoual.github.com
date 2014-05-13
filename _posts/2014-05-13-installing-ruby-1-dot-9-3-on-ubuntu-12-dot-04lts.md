@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Installing Ruby 1.9.3 on Ubuntu 12.04LTS"
+title: "Installing Ruby 1.9.3 on Ubuntu 12.04LTS [FR]"
 modified: 2014-05-13 01:19:52 +0200
 tags: [Ubuntu, Linux, Ruby, kramdown, jekyll]
 image:
-  feature:
+  feature: abstract-4.jpg
   credit:
   creditlink:
 comments: true
