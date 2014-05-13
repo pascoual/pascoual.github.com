@@ -44,4 +44,4 @@ ruby --version
 
 ## Et alors ?
 
-Et bien mon ami, tu as ce que tu voulais, non ? Ok ok j'avoue, il existe bien un packet ruby1.9.3, mais c'est un proxy vers ruby1.9.1.
+Et bien mon ami, tu as ce que tu voulais, non ? Ok ok j'avoue, il existe bien un paquet ruby1.9.3, mais c'est un proxy vers ruby1.9.1.
