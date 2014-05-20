@@ -4,11 +4,11 @@ title: "Measuring JavaScript execution times [US]"
 modified: 2014-05-20 10:45:56 +0200
 tags: [JavaScript, time]
 image:
-  feature:
+  feature: abstract-4.jpg
   credit:
   creditlink:
-comments:
-share:
+comments: true
+share: true
 ---
 
 Want to see if you implementation is time consuming ?
